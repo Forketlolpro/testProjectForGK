@@ -28,7 +28,7 @@
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
   a{
     font-size: 13px;
     line-height: 16px;

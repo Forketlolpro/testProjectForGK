@@ -84,7 +84,7 @@
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 .product{
   font-family: Arial, Helvetica, sans-serif;
   position: relative;
